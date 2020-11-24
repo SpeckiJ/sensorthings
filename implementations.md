@@ -4,7 +4,7 @@
 
 * [GOST](#GOST)
 * [FROST-Server](#FROST)
-* [52°North STA](#52°North STA)
+* [52°North STA](#52N STA)
 
 ### GOST
 
@@ -18,7 +18,7 @@ FROST-Server is an Open Source server implementation of the OGC SensorThings API
 
 Repository - https://github.com/FraunhoferIOSB/FROST-Server
 
-### 52°North STA
+### 52N STA
 
 52N SensorThingsAPI is an open source implementation of the OGC SensorThings API. Its core features are the interoperability with the (52°North SOS)[https://github.com/52North/sos] implementing the (OGC Sensor Observation Service)[https://www.ogc.org/standards/sos], customizable database mappings and several convenience extensions. It can be deployed as a Docker container, inside an Apache Tomcat or as a standalone application. 
 
