@@ -4,7 +4,7 @@
 
 * [GOST](#GOST)
 * [FROST-Server](#FROST)
-* [52°North STA](#52°North)
+* [52°North STA](#52north-sta)
 
 ### GOST
 
